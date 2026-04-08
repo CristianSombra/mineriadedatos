@@ -10,4 +10,3 @@ En este repositorio se desarrollan los ejercicios correspondientes a la clase 1 
 
 ## Archivos
 - `clase1_mineria_de_datos_actividades.ipynb`
-- `clase1_mineria_de_datos_actividades.html`
