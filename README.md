@@ -6,3 +6,4 @@ Organización: Cada carpeta corresponde a una clase e incluye los ejercicios des
 
 ## Contenido actual
 - Clase 1: conceptos básicos, KDD, CRISP-DM y análisis inicial de datos
+- Clase 2: tipos de datos, limpieza, transformación y análisis exploratorio (EDA), incluyendo detección de outliers, codificación de variables categóricas y actividad integradora con el dataset Titanic
