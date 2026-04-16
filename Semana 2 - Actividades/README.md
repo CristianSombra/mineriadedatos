@@ -14,3 +14,5 @@ En este repositorio se desarrollan los ejercicios correspondientes a la clase 2 
 - `Semana 2 - Actividades PDF - Ejercicio 1.ipynb`
 - `Semana 2 - Actividades PDF - Ejercicio 2.ipynb`
 - `Semana 2 - Actividades PDF - Ejercicio 3.ipynb`
+- `AO1_Clase2_Cristian_Sombra.ipynb`
+- `AO1_Clase2_Cristian_Sombra.pdf`
