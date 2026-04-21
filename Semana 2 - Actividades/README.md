@@ -8,6 +8,12 @@ En este repositorio se desarrollan los ejercicios correspondientes a la clase 2 
 - Análisis exploratorio de datos (EDA)  
 - Estadísticas descriptivas y correlación  
 - Detección de outliers con IQR  
+- Construcción de pipelines con Scikit-Learn (Pipeline y ColumnTransformer)  
+- Imputación de datos (mean, median y KNNImputer)  
+- Escalado de variables (StandardScaler y MinMaxScaler)  
+- Evaluación de modelos (accuracy, classification report y matriz de confusión)  
+- Prevención de data leakage  
+- Implementación de un pipeline completo en un caso real (dataset diamonds)  
 
 ## Archivos
 - `Semana 2 - Actividad Integradora compartida en google colab - Ejercicio 4.ipynb`
