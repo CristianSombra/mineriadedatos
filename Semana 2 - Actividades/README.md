@@ -16,6 +16,7 @@ En este repositorio se desarrollan los ejercicios correspondientes a la clase 2 
 - Implementación de un pipeline completo en un caso real (dataset diamonds)  
 
 ## Archivos
+- `MineriaDatos_S2_Clase2_Laboratorio.ipynb`
 - `Semana 2 - Actividad Integradora compartida en google colab - Ejercicio 4.ipynb`
 - `Semana 2 - Actividades PDF - Ejercicio 1.ipynb`
 - `Semana 2 - Actividades PDF - Ejercicio 2.ipynb`
