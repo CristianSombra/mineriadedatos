@@ -1,6 +1,6 @@
 # Minería de Datos
 
-Descripción: Repositorio con los trabajos prácticos y actividades desarrolladas en la materia Minería de Datos, incluyendo análisis exploratorio, preprocesamiento, visualización y técnicas de clustering aplicadas mediante Python y Jupyter Notebook.
+Descripción: Repositorio con los trabajos prácticos y actividades desarrolladas en la materia Minería de Datos, incluyendo análisis exploratorio, preprocesamiento, visualización, clustering y aprendizaje supervisado aplicados mediante Python y Jupyter Notebook.
 
 Organización: Cada carpeta corresponde a una clase e incluye ejercicios, actividades prácticas y notebooks desarrollados durante la cursada.
 
@@ -12,6 +12,7 @@ Organización: Cada carpeta corresponde a una clase e incluye ejercicios, activi
 * Clase 4: visualización de datos, selección de gráficos adecuados, histogramas, boxplots, gráficos de barras, scatter plots, comparación entre Matplotlib y Seaborn, pairplot, heatmap, violin plot y actividad integradora aplicada a un dataset de ventas
 * Clase 5: preprocesamiento y transformación de datos, manejo de valores nulos, detección de outliers con IQR, winsorización, transformación logarítmica, normalización, estandarización, One-Hot Encoding, Label Encoding y construcción de pipelines de preprocesamiento con Scikit-learn
 * Clase 6: clustering y segmentación de datos utilizando K-Means y DBSCAN, comparación entre algoritmos, análisis de similitudes y diferencias, parámetros principales (K, eps y min_samples), detección de ruido y outliers, interpretación de resultados y aplicaciones prácticas en minería de datos
+* Clase 8: aprendizaje supervisado mediante Regresión Logística y Regresión Lineal Múltiple, clasificación y regresión, división de datos en entrenamiento y prueba, escalado y preprocesamiento, matriz de confusión, Accuracy, Precision, Recall, F1-score, métricas R², MSE y MAE, análisis de resultados y actividades prácticas utilizando los datasets Titanic y California Housing
 
 ## Herramientas utilizadas
 
